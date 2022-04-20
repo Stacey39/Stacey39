@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Stacey39
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web deisgin 
+- 🌱 I’m currently learning Front-End Web Development
+- 📫 How to reach me christianxv8@gmail.com
 
-<!---
-Stacey39/Stacey39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.
